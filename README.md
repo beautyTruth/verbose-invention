@@ -7,3 +7,5 @@ I’ve spent the past week battling panic attacks and flashbacks and writing unr
 This time, I introduce to you **birbmax**. It's a nightclub for birbs. Or a coffee shop for birbs. Or a dating app for birbs. Or a low T supplement for birbs.
 
 So it is with that in mind that I return to this medium. I’m seated at my desk making things. Please enjoy and use any of the things I’ve committed into this repo for your own purposes.
+
+![Alt text](<Screenshot 2023-09-14 at 5.41.45 PM.png>)
